@@ -1,0 +1,25 @@
+const name = {
+  agents: 'agents',
+  banners: 'banners',
+  categories: 'categories',
+  addresses: 'addresses',
+  common: 'common',
+  contactUs: 'contactUs',
+  employeeVerifications: 'employeeVerifications',
+  employees: 'employees',
+  invoices: 'invoices',
+  locations: 'locations',
+  news: 'news',
+  notifications: 'notifications',
+  orderStatus: 'orderStatus',
+  orders: 'orders',
+  organizations: 'organizations',
+  products: 'products',
+  roles: 'roles',
+  users: 'users',
+  verificationStatus: 'verificationStatus',
+  otpVerifications: 'otpVerifications',
+  leads: 'leads',
+};
+
+module.exports = { name };
